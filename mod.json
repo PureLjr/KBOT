@@ -1,3 +1,4 @@
+
 {
     "geode": "5.11.2",
     "gd": {
@@ -8,7 +9,7 @@
     },
     "id": "kyn0ra.kbot",
     "name": "KBOT",
-    "version": "1.0.0"
+    "version": "1.0.0",
     "developer": "Kyn0ra",
     "description": "A practice tool for Geometry Dash with a macro recorder, replayer and a basic auto-player."
 }
