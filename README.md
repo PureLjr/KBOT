@@ -5,7 +5,7 @@
 <h1 align="center">KBot</h1>
 
 <p align="center">
-  A practice and offline tool for Geometry Dash, built with <a href="https://geode-sdk.org">Geode</a>.
+  A practice and practice tool for Geometry Dash, built with <a href="https://geode-sdk.org">Geode</a>.
 </p>
 
 ---
