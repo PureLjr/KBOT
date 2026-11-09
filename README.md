@@ -1,6 +1,6 @@
 # KBot
 
-A practice and offline tool for Geometry Dash.
+A practice and tool for Geometry Dash.
 
 ## Features
 - **Record:** record your inputs as you play
