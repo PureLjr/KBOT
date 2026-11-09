@@ -8,7 +8,7 @@
     },
     "id": "kyn0ra.kbot",
     "name": "KBOT",
-    "version": "v1.0.0",
+    "version": "1.0.0"
     "developer": "Kyn0ra",
     "description": "A practice tool for Geometry Dash with a macro recorder, replayer and a basic auto-player."
 }
